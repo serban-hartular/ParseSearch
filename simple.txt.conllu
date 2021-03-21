@@ -1,0 +1,140 @@
+# text = Aici așteaptă doi bolnavi.
+1	Aici	aici	ADV	Rgp	_	2	advmod	_	_
+2	așteaptă	aștepta	VERB	Vmip3	_	0	root	_	_
+3	doi	doi	NUM	Mcmp-l	_	4	nummod	_	_
+4	bolnavi	bolnav	NOUN	Ncmp-n	_	2	obj	_	_
+5	.	.	PUNCT	PERIOD	_	2	punct	_	_
+
+# text = Primul este un tânăr.
+1	Primul	prim	NUM	Momsrly	_	4	nsubj	_	_
+2	este	fi	AUX	Vmip3s	_	4	cop	_	_
+3	un	un	DET	Timsr	_	4	det	_	_
+4	tânăr	tânăr	NOUN	Ncms-n	_	0	root	_	_
+5	.	.	PUNCT	PERIOD	_	4	punct	_	_
+
+# text = El tușește.
+1	El	el	PRON	Pp3msr--------s	_	2	nsubj	_	_
+2	tușește	tuși	VERB	Vmip3s	_	0	root	_	_
+3	.	.	PUNCT	PERIOD	_	2	punct	_	_
+
+# text = Are gripă.
+1	Are	avea	VERB	Vmip3s	_	0	root	_	_
+2	gripă	gripă	NOUN	Ncfsrn	_	1	obj	_	_
+3	.	.	PUNCT	PERIOD	_	1	punct	_	_
+
+# text = Al doilea este un bătrân.
+1	Al	al	DET	Tsms	_	2	det	_	_
+2	doilea	doi	NUM	Moms-l	_	5	nsubj	_	_
+3	este	fi	AUX	Vmip3s	_	5	cop	_	_
+4	un	un	DET	Timsr	_	5	det	_	_
+5	bătrân	bătrân	NOUN	Ncms-n	_	0	root	_	_
+6	.	.	PUNCT	PERIOD	_	5	punct	_	_
+
+# text = Pe el îl doare piciorul.
+1	Pe	pe	ADP	Spsa	_	2	case	_	_
+2	el	el	PRON	Pp3msr--------s	_	4	obl	_	_
+3	îl	el	PRON	Pp3msa--------w	_	4	obj	_	_
+4	doare	durea	VERB	Vmip3s	_	0	root	_	_
+5	piciorul	picior	NOUN	Ncmsry	_	4	nsubj	_	_
+6	.	.	PUNCT	PERIOD	_	4	punct	_	_
+
+# text = Asistenta îl cheamă pe tânăr la consultație.
+1	Asistenta	asistena	NOUN	Ncfsry	_	3	nsubj	_	_
+2	îl	el	PRON	Pp3msa--------w	_	3	expl	_	_
+3	cheamă	chema	VERB	Vmip3	_	0	root	_	_
+4	pe	pe	ADP	Spsa	_	5	case	_	_
+5	tânăr	tânăr	NOUN	Ncms-n	_	3	obj	_	_
+6	la	la	ADP	Spsa	_	7	case	_	_
+7	consultație	consultație	NOUN	Ncfsrn	_	3	obl	_	_
+8	.	.	PUNCT	PERIOD	_	3	punct	_	_
+
+# text = După 15 minute, el iese afară din cabinet cu o rețetă în mână.
+1	După	după	ADP	Spsa	_	3	case	_	_
+2	15	15	NUM	Mc-p-d	_	3	nummod	_	_
+3	minute	minut	NOUN	Ncfp-n	_	6	obl	_	_
+4	,	,	PUNCT	COMMA	_	3	punct	_	_
+5	el	el	PRON	Pp3msr--------s	_	6	nsubj	_	_
+6	iese	ieși	VERB	Vmip3s	_	0	root	_	_
+7	afară	afară	ADV	Rgp	_	6	advmod	_	_
+8	din	din	ADP	Spsa	_	9	case	_	_
+9	cabinet	cabinet	NOUN	Ncms-n	_	6	obl	_	_
+10	cu	cu	ADP	Spsa	_	12	case	_	_
+11	o	un	DET	Tifsr	_	12	det	_	_
+12	rețetă	rețetă	NOUN	Ncfsrn	_	6	obl	_	_
+13	în	în	ADP	Spsa	_	14	case	_	_
+14	mână	mână	NOUN	Ncfsrn	_	12	nmod	_	_
+15	.	.	PUNCT	PERIOD	_	6	punct	_	_
+
+# text = Intra bătrânul.
+1	Intra	intra	VERB	Vmii3s	_	0	root	_	_
+2	bătrânul	bătrân	NOUN	Ncmsry	_	1	nsubj	_	_
+3	.	.	PUNCT	PERIOD	_	1	punct	_	_
+
+# text = El stă înăuntru 20 de minute.
+1	El	el	PRON	Pp3msr--------s	_	2	nsubj	_	_
+2	stă	sta	VERB	Vmip3s	_	0	root	_	_
+3	înăuntru	înăuntru	ADV	Rgp	_	2	advmod	_	_
+4	20	20	NUM	Mc-p-d	_	6	nummod	_	_
+5	de	de	ADP	Spsa	_	4	case	_	_
+6	minute	minut	NOUN	Ncfp-n	_	2	obj	_	_
+7	.	.	PUNCT	PERIOD	_	2	punct	_	_
+
+# text = Apoi intra Ioana.
+1	Apoi	apoi	ADV	Rgp	_	2	advmod	_	_
+2	intra	intra	VERB	Vmnp	_	0	root	_	_
+3	Ioana	Ioana	PROPN	Np	_	2	nsubj	_	_
+4	.	.	PUNCT	PERIOD	_	2	punct	_	_
+
+# text = Au ajuns la hotel și Andrei a cerut o cameră pentru o singură persoană.
+1	Au	avea	AUX	Va--3p	_	2	aux	_	_
+2	ajuns	ajunge	VERB	Vmp--sm	_	0	root	_	_
+3	la	la	ADP	Spsa	_	4	case	_	_
+4	hotel	hotel	NOUN	Ncms-n	_	2	obl	_	_
+5	și	și	CCONJ	Crssp	_	8	cc	_	_
+6	Andrei	Andrei	PROPN	Np	_	8	nsubj	_	_
+7	a	avea	AUX	Va--3s	_	8	aux	_	_
+8	cerut	cere	VERB	Vmp--sm	_	2	conj	_	_
+9	o	un	DET	Tifsr	_	10	det	_	_
+10	cameră	cameră	NOUN	Ncfsrn	_	8	obj	_	_
+11	pentru	pentru	ADP	Spsa	_	14	case	_	_
+12	o	un	DET	Tifsr	_	14	det	_	_
+13	singură	singur	ADJ	Afpfsrn	_	14	amod	_	_
+14	persoană	persoană	NOUN	Ncfsrn	_	8	obl	_	_
+15	.	.	PUNCT	PERIOD	_	2	punct	_	_
+
+# text = Recepționera l-a rugat să completeze un formular pentru cameră 67.
+1	Recepționera	Recepționeră	NOUN	Ncfsry	_	4	aux	_	_
+2	l-	el	PRON	Pp3msa--y-----w	_	4	obj	_	_
+3	a	avea	AUX	Va--3s	_	4	aux	_	_
+4	rugat	ruga	VERB	Vmp--sm	_	0	root	_	_
+5	să	să	PART	Qs	_	6	mark	_	_
+6	completeze	completa	VERB	Vmsp3	_	4	xcomp	_	_
+7	un	un	DET	Timsr	_	8	det	_	_
+8	formular	formular	NOUN	Ncms-n	_	6	obj	_	_
+9	pentru	pentru	ADP	Spsa	_	10	case	_	_
+10	camera	cameră	NOUN	Ncfsry	_	8	nmod	_	_
+11	67	67	NUM	Mc-p-d	_	10	nummod	_	_
+12	.	.	PUNCT	PERIOD	_	4	punct	_	_
+
+# text = Andrei a completat formularul și a primit cheia camerei.
+1	Andrei	Andrei	PROPN	Np	_	3	nsubj	_	_
+2	a	avea	AUX	Va--3s	_	3	aux	_	_
+3	completat	completa	VERB	Vmp--sm	_	0	root	_	_
+4	formularul	formular	NOUN	Ncmsry	_	3	obj	_	_
+5	și	și	CCONJ	Crssp	_	7	cc	_	_
+6	a	avea	AUX	Va--3s	_	7	aux	_	_
+7	primit	primi	VERB	Vmp--sm	_	3	conj	_	_
+8	cheia	cheie	NOUN	Ncfsry	_	7	obj	_	_
+9	camerei	cameră	NOUN	Ncfsoy	_	8	nmod	_	_
+10	.	.	PUNCT	PERIOD	_	3	punct	_	_
+
+# text = Ioana și Andrei sunt în sala de așteptare.
+1	Ioana	Ioana	PROPN	Np	_	6	nsubj	_	_
+2	și	și	CCONJ	Crssp	_	3	cc	_	_
+3	Andrei	Andrei	PROPN	Np	_	1	conj	_	_
+4	sunt	fi	AUX	Vmip3p	_	6	cop	_	_
+5	în	în	ADP	Spsa	_	6	case	_	_
+6	sala	sală	NOUN	Ncfsry	_	0	root	_	_
+7	de	de	ADP	Spsa	_	8	case	_	_
+8	așteptare	așteptare	NOUN	Ncfsrn	_	6	nmod	_	_
+9	.	.	PUNCT	PERIOD	_	6	punct	_	_

@@ -1,0 +1,60 @@
+# text = Aici așteaptă doi bolnavi.
+1	Aici	aici	ADV	Rgp	_	2	advmod	_	_
+2	așteaptă	aștepta	VERB	Vmip3	_	0	root	_	_
+3	doi	doi	NUM	Mcmp-l	_	4	nummod	_	_
+4	bolnavi	bolnav	NOUN	Ncmp-n	_	2	obj	_	_
+5	.	.	PUNCT	PERIOD	_	2	punct	_	_
+
+# text = Ioana și Andrei sunt în sala de așteptare.
+1	Ioana	Ioana	PROPN	Np	_	6	nsubj	_	_
+2	și	și	CCONJ	Crssp	_	3	cc	_	_
+3	Andrei	Andrei	PROPN	Np	_	1	conj	_	_
+4	sunt	fi	AUX	Vmip3p	_	6	cop	_	_
+5	în	în	ADP	Spsa	_	6	case	_	_
+6	sala	sală	NOUN	Ncfsry	_	0	root	_	_
+7	de	de	ADP	Spsa	_	8	case	_	_
+8	așteptare	așteptare	NOUN	Ncfsrn	_	6	nmod	_	_
+9	.	.	PUNCT	PERIOD	_	6	punct	_	_
+
+# text = Primul este un tânăr.
+1	Primul	prim	NUM	Momsrly	_	4	nsubj	_	_
+2	este	fi	AUX	Vmip3s	_	4	cop	_	_
+3	un	un	DET	Timsr	_	4	det	_	_
+4	tânăr	tânăr	NOUN	Ncms-n	_	0	root	_	_
+5	.	.	PUNCT	PERIOD	_	4	punct	_	_
+
+# text = El tușește.
+1	El	el	PRON	Pp3msr--------s	_	2	nsubj	_	_
+2	tușește	tuși	VERB	Vmip3s	_	0	root	_	_
+3	.	.	PUNCT	PERIOD	_	2	punct	_	_
+
+# text = Are gripă.
+1	Are	avea	VERB	Vmip3s	_	0	root	_	_
+2	gripă	gripă	NOUN	Ncfsrn	_	1	obj	_	_
+3	.	.	PUNCT	PERIOD	_	1	punct	_	_
+
+# text = Al doilea este un bătrân.
+1	Al	al	DET	Tsms	_	2	det	_	_
+2	doilea	doi	NUM	Moms-l	_	5	nsubj	_	_
+3	este	fi	AUX	Vmip3s	_	5	cop	_	_
+4	un	un	DET	Timsr	_	5	det	_	_
+5	bătrân	bătrân	NOUN	Ncms-n	_	0	root	_	_
+6	.	.	PUNCT	PERIOD	_	5	punct	_	_
+
+# text = Pe el îl doare piciorul.
+1	Pe	pe	ADP	Spsa	_	2	case	_	_
+2	el	el	PRON	Pp3msr--------s	_	4	obl	_	_
+3	îl	el	PRON	Pp3msa--------w	_	4	obj	_	_
+4	doare	durea	VERB	Vmip3s	_	0	root	_	_
+5	piciorul	picior	NOUN	Ncmsry	_	4	nsubj	_	_
+6	.	.	PUNCT	PERIOD	_	4	punct	_	_
+
+# text = Asistenta îl cheamă pe tânăr la consultație.
+1	Asistenta	asistena	NOUN	Ncfsry	_	3	nsubj	_	_
+2	îl	el	PRON	Pp3msa--------w	_	3	expl	_	_
+3	cheamă	chema	VERB	Vmip3	_	0	root	_	_
+4	pe	pe	ADP	Spsa	_	5	case	_	_
+5	tânăr	tânăr	NOUN	Ncms-n	_	3	obj	_	_
+6	la	la	ADP	Spsa	_	7	case	_	_
+7	consultație	consultație	NOUN	Ncfsrn	_	3	obl	_	_
+8	.	.	PUNCT	PERIOD	_	3	punct	_	_
